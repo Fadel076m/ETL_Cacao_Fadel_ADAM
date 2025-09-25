@@ -6,7 +6,11 @@ __pycache__/
 
 # Fichiers de configuration sensibles
 .env
+donnees_scrapees.csv
 
 # Dossiers de sortie et logs
 output/
-*.log
+*.log   
+logs/
+data/output/
+data/intermediate/
